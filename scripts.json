@@ -1,0 +1,5 @@
+{
+  "Fire Parts Tool": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EnesXVC/FireParts/main/Script\"))()",
+  "Script 2": "loadstring(game:HttpGet(\"script2.com\"))()",
+  "Script 3": "print('Hello World')"
+}
